@@ -1,0 +1,49 @@
+body{
+
+
+
+background-image:url(../image/old.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+font-family:time new roman;
+
+}
+h1{
+   font-size: 60px;
+color:white;
+}
+
+a{
+  color:white;
+   text-decoration: underline;
+font-size:26px;
+text-align:left;
+}
+h2 {
+font-size:22px;
+color:white;
+background-color: black;
+}
+p {
+font-size:26px;
+color:white;
+}
+h3 {
+font-size:45px;
+color:white;
+background-color: black;
+margin: 0px;
+}
+h4{
+font-size:40px;
+color:white;
+font-style:italic;
+}
+h5{
+font-size:30px;
+color:white;
+}
+li {
+  font-size:30px;
+  color:white;
+}
